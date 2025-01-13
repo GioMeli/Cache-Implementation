@@ -25,31 +25,7 @@ System.out.println("Misses: " + cache.getMissCount());
 ## Δομή Έργου
 Η δομή του έργου έχει ως εξής:
 
-Cache Implementation/
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   ├── com/
-│   │   │   │   ├── cache/
-│   │   │   │   │   ├── Cache.java
-│   │   │   │   │   ├── CacheReplacementPolicy.java
-│   │   │   │   │   ├── DoublyLinkedListNode.java
-│   │   │   │   │   ├── DoublyLinkedList.java
-│   │   │   │   │   ├── LRUCache.java
-│   │   │   │   │   ├── LFUCache.java
-│   │   │   │   │   ├── MRUCache.java
-│   │   │   │   │   ├── Main.java
-│   ├── test/
-│   │   ├── java/
-│   │   │   ├── com/
-│   │   │   │   ├── cache/
-│   │   │   │   │   ├── CacheTest.java
-│   │   │   │   │   ├── LRUCacheTest.java
-│   │   │   │   │   ├── LFUCacheTest.java
-│   │   │   │   │   ├── MRUCacheTest.java                                                                                  
-├── README.md
-├── report.pdf
-├── pom.xml   
+![image](https://github.com/user-attachments/assets/648dc73b-80df-4360-b903-4b7040869e5e)
 
 ## Απαιτήσεις Συστήματος
 - **Java Development Kit (JDK):** Έκδοση 17 ή νεότερη
@@ -86,3 +62,13 @@ Cache Implementation/
 1. Δημιουργήστε ένα fork του αποθετηρίου.
 2. Υλοποιήστε τις αλλαγές σας σε ένα νέο branch.
 3. Υποβάλετε ένα Pull Request για ανασκόπηση.
+
+
+
+
+
+
+
+
+
+
